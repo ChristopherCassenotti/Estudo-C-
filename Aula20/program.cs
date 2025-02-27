@@ -83,6 +83,43 @@ namespace Aula19
             int indice2 = Array.LastIndexOf(vetor1,3);
             Console.WriteLine("Indice do último valor 33: {0}",indice2);
             Console.WriteLine("-------------------------------------");
+
+            //public static void Reverse(array);
+            Array.Reverse(vetor1);
+            foreach(int n in vetor1){
+                Console.WriteLine(n);
+            }
+
+            //public void SetValue(object valor, long pos);
+            vetor2.SetValue(99,0);
+            for(int i=0 ; i<vetor2.Length ; i++){
+                vetor2.SetValue(0,i);
+            }
+            Console.WriteLine("Vetor 2");
+            foreach(int n in vetor2){
+                Console.WriteLine(n);
+            }            
+
+            //public static void Sort(array);
+            //ordem crescente
+            Array.Sort(vetor1);
+            Array.Sort(vetor2);
+            //ordem decresente
+            Array.Sort(vetor3);
+            Array.Reverse(vetor3);
+            Console.WriteLine("Vetor1");
+            foreach(int n in vetor1){
+                Console.WriteLine(n);
+            }
+            Console.WriteLine("\nVetor2");
+            foreach(int n in vetor2){
+                Console.WriteLine(n);
+            }
+            Console.WriteLine("\nVetor3");
+            foreach(int n in vetor3){
+                Console.WriteLine(n);
+            }
+
         }
     }
 }
