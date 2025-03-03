@@ -34,6 +34,7 @@ namespace Aula28
             Console.WriteLine("Energia jogador: {0}", energia);
             Console.WriteLine("Status jogador: {0}\n", status);
         }
+        
         ~Jogador(){
         }
     }

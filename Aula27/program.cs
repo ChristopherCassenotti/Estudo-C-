@@ -25,6 +25,7 @@ namespace Aula27
 
         ~Jogador(){
             Console.WriteLine("Jogador {0} foi deletado", nome);
+            
         }
     }
     class Program
