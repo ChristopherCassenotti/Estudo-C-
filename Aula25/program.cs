@@ -1,6 +1,6 @@
 using System;
 
-namespace Aula24
+namespace Aula25
 {
     public class Jogador
     {
