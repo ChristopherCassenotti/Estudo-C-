@@ -6,7 +6,7 @@ namespace Aula44
     {
         private string nomeGalinha;
         private int qntdOvo;
-        static private int totalOvos;
+        private static int totalOvos;
         public Galinha(string nomeGalinha)
         {
             this.nomeGalinha = nomeGalinha;
@@ -17,9 +17,9 @@ namespace Aula44
         {
             qntdOvo++;
             totalOvos++;
-            return new Ovo(qntdOvo, nomeGalinha, totalOvos);
+            return new Ovo(qntdOvo, nomeGalinha);
         }
-        public void ControleOvos(){
+        public static void ControleOvos(){
             Console.WriteLine("Total de ovos: {0}", totalOvos);
         }
     }
@@ -28,11 +28,11 @@ namespace Aula44
     {
         private int qntdOvo;
         private string minhaGalinha;
-        public Ovo(int qntdOvo, string minhaGalinha, int totalOvos)
+        public Ovo(int qntdOvo, string minhaGalinha)
         {
             this.minhaGalinha = minhaGalinha;
             this.qntdOvo = qntdOvo;
-            Console.WriteLine("Ovo criado: {0} - {1}\n", this.qntdOvo, this.minhaGalinha, totalOvos);
+            Console.WriteLine("Ovo criado: {0} - {1}\n", this.qntdOvo, this.minhaGalinha);
         }
 
     }
@@ -48,14 +48,17 @@ namespace Aula44
             g1.botar();
             g1.botar();
 
-
+            g2.botar();
+            g2.botar();
+            g2.botar();
+            g2.botar();
             g2.botar();
 
             g3.botar();
             g3.botar();
             g3.botar();
 
-            g1.ControleOvos();
+            Galinha.ControleOvos();
         }
     }
 }
