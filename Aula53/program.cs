@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Internal;
 
 namespace Aula53
 {
@@ -36,8 +37,6 @@ namespace Aula53
                 Console.WriteLine(v);
             }
             Console.WriteLine("Tamanho do Dictionary: {0}", veiculos.Count);
-            
-
         }
     }
 }

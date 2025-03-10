@@ -36,6 +36,7 @@ namespace Aula51
             finally
             {
                 Console.WriteLine("Fim do calculo");
+
             }
         }
     }
