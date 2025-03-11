@@ -1,0 +1,10 @@
+C:\Users\Chico\Documents\C#\Aula58\Aula58\bin\Debug\Aula58.exe.config
+C:\Users\Chico\Documents\C#\Aula58\Aula58\bin\Debug\Aula58.exe
+C:\Users\Chico\Documents\C#\Aula58\Aula58\bin\Debug\Aula58.pdb
+C:\Users\Chico\Documents\C#\Aula58\Aula58\obj\Debug\Aula58.csproj.AssemblyReference.cache
+C:\Users\Chico\Documents\C#\Aula58\Aula58\obj\Debug\Aula58.Form1.resources
+C:\Users\Chico\Documents\C#\Aula58\Aula58\obj\Debug\Aula58.Properties.Resources.resources
+C:\Users\Chico\Documents\C#\Aula58\Aula58\obj\Debug\Aula58.csproj.GenerateResource.cache
+C:\Users\Chico\Documents\C#\Aula58\Aula58\obj\Debug\Aula58.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Documents\C#\Aula58\Aula58\obj\Debug\Aula58.exe
+C:\Users\Chico\Documents\C#\Aula58\Aula58\obj\Debug\Aula58.pdb
