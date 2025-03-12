@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace Aula59
 {
-    public partial class Aula59: Form
+    public partial class F_Principal: Form
     {
-        public Aula59()
+        public int num;
+        public F_Principal()
         {
             InitializeComponent();
+            num = 0;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -53,5 +55,39 @@ namespace Aula59
 
             MessageBox.Show(v);
         }
+
+        private void btn_showV_Click(object sender, EventArgs e)
+        {
+            F_Veiculos f_Veiculos = new F_Veiculos(txt_mult_veiculo.Text, this);
+            f_Veiculos.ShowDialog();
+        }
+
+        private void btn_valNum_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(num.ToString());
+        }
+
+        private void checkBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_CheckBox f_CheckBox = new F_CheckBox();
+            f_CheckBox.ShowDialog();
+        }
+
+        private void checkListBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_CheckListBox f_CheckListBox = new F_CheckListBox();
+            f_CheckListBox.ShowDialog();
+        }
+
+        private void componetesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
     }
 }

@@ -16,7 +16,7 @@ namespace Aula59
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Aula59());
+            Application.Run(new F_Principal());
         }
     }
 }
