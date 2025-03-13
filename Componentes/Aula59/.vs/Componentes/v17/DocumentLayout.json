@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|c:\\users\\chico\\documents\\c#\\componentes\\aula59\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_datetimepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_datetimepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_datetimepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_datetimepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_filhocheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_filhocheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_filhocheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_filhocheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_veiculos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_veiculos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_checklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_checklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_checklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_checklistbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Aula59.csproj|solutionrelative:f_checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_DateTimePicker.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_DateTimePicker.cs",
+              "RelativeDocumentMoniker": "F_DateTimePicker.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_DateTimePicker.cs",
+              "RelativeToolTip": "F_DateTimePicker.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:28:33.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_DateTimePicker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_DateTimePicker.cs",
+              "RelativeDocumentMoniker": "F_DateTimePicker.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Aula59\\Aula59\\F_DateTimePicker.cs [Design]",
+              "RelativeToolTip": "..\\..\\Aula59\\Aula59\\F_DateTimePicker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:25:53.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboBox.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\ComboBox.cs",
+              "RelativeDocumentMoniker": "ComboBox.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\ComboBox.cs",
+              "RelativeToolTip": "ComboBox.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:48:50.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComboBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\ComboBox.cs",
+              "RelativeDocumentMoniker": "ComboBox.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\ComboBox.cs [Design]",
+              "RelativeToolTip": "ComboBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:42:47.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "F_CheckListBox.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_CheckListBox.cs",
+              "RelativeDocumentMoniker": "F_CheckListBox.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_CheckListBox.cs",
+              "RelativeToolTip": "F_CheckListBox.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:29:32.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "F_CheckListBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_CheckListBox.cs",
+              "RelativeDocumentMoniker": "F_CheckListBox.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Aula59\\Aula59\\F_CheckListBox.cs [Design]",
+              "RelativeToolTip": "..\\..\\Aula59\\Aula59\\F_CheckListBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:31:47.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "F_FilhoCheckBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_FilhoCheckBox.cs",
+              "RelativeDocumentMoniker": "F_FilhoCheckBox.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Aula59\\Aula59\\F_FilhoCheckBox.cs [Design]",
+              "RelativeToolTip": "..\\..\\Aula59\\Aula59\\F_FilhoCheckBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:50:39.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAWwGQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:04:30.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "F_FilhoCheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_FilhoCheckBox.cs",
+              "RelativeDocumentMoniker": "F_FilhoCheckBox.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_FilhoCheckBox.cs",
+              "RelativeToolTip": "F_FilhoCheckBox.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:51:09.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "F_CheckBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_CheckBox.cs",
+              "RelativeDocumentMoniker": "F_CheckBox.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Aula59\\Aula59\\F_CheckBox.cs [Design]",
+              "RelativeToolTip": "..\\..\\Aula59\\Aula59\\F_CheckBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:26:59.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Aula59\\Aula59\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Aula59\\Aula59\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:04:12.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "F_CheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_CheckBox.cs",
+              "RelativeDocumentMoniker": "F_CheckBox.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_CheckBox.cs",
+              "RelativeToolTip": "F_CheckBox.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:39:52.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "F_Veiculos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_Veiculos.Designer.cs",
+              "RelativeDocumentMoniker": "F_Veiculos.Designer.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_Veiculos.Designer.cs",
+              "RelativeToolTip": "F_Veiculos.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:35:35.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F_Veiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_Veiculos.cs",
+              "RelativeDocumentMoniker": "F_Veiculos.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_Veiculos.cs",
+              "RelativeToolTip": "F_Veiculos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:35:55.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "F_Veiculos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_Veiculos.cs",
+              "RelativeDocumentMoniker": "F_Veiculos.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Aula59\\Aula59\\F_Veiculos.cs [Design]",
+              "RelativeToolTip": "..\\..\\Aula59\\Aula59\\F_Veiculos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:59:18.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
