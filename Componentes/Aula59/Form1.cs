@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -23,6 +24,13 @@ namespace Aula59
         {
 
         }
+
+        public void OpenForm<T>()where T : Form, new()
+            {
+            T form = new T();
+            form.Show();
+        }
+
 
         private void btn_add_Click(object sender, EventArgs e)
         {
@@ -69,14 +77,12 @@ namespace Aula59
 
         private void checkBoxToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            F_CheckBox f_CheckBox = new F_CheckBox();
-            f_CheckBox.ShowDialog();
+            OpenForm<F_CheckBox>();
         }
 
         private void checkListBoxToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            F_CheckListBox f_CheckListBox = new F_CheckListBox();
-            f_CheckListBox.ShowDialog();
+            OpenForm<F_CheckListBox>();
         }
 
         private void componetesToolStripMenuItem_Click(object sender, EventArgs e)
@@ -91,14 +97,22 @@ namespace Aula59
 
         private void comboBoxToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            F_ComboBox f_ComboBox = new F_ComboBox();
-            f_ComboBox.ShowDialog();
+            OpenForm<F_ComboBox>();
         }
 
         private void dateTimePickerToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            F_DateTimePicker f_DateTimePicker = new F_DateTimePicker();
-            f_DateTimePicker.ShowDialog();
+            OpenForm<F_DateTimePicker>();
+        }
+
+        private void linkLabelToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_CheckBox>();
+        }
+
+        private void listBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_ListBox>();
         }
     }
 }
