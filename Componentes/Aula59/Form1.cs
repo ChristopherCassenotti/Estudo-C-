@@ -114,5 +114,10 @@ namespace Aula59
         {
             OpenForm<F_ListBox>();
         }
+
+        private void listViewToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_ListView>();
+        }
     }
 }

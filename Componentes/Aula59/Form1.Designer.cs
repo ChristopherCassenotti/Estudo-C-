@@ -44,6 +44,7 @@
             this.dateTimePickerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.linkLabelToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listBoxToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.listViewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -151,7 +152,8 @@
             this.comboBoxToolStripMenuItem,
             this.dateTimePickerToolStripMenuItem,
             this.linkLabelToolStripMenuItem,
-            this.listBoxToolStripMenuItem});
+            this.listBoxToolStripMenuItem,
+            this.listViewToolStripMenuItem});
             this.componetesToolStripMenuItem.Name = "componetesToolStripMenuItem";
             this.componetesToolStripMenuItem.Size = new System.Drawing.Size(107, 24);
             this.componetesToolStripMenuItem.Text = "Componetes";
@@ -198,6 +200,13 @@
             this.listBoxToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.listBoxToolStripMenuItem.Text = "ListBox";
             this.listBoxToolStripMenuItem.Click += new System.EventHandler(this.listBoxToolStripMenuItem_Click);
+            // 
+            // listViewToolStripMenuItem
+            // 
+            this.listViewToolStripMenuItem.Name = "listViewToolStripMenuItem";
+            this.listViewToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.listViewToolStripMenuItem.Text = "ListView";
+            this.listViewToolStripMenuItem.Click += new System.EventHandler(this.listViewToolStripMenuItem_Click);
             // 
             // F_Principal
             // 
@@ -246,6 +255,7 @@
         private System.Windows.Forms.ToolStripMenuItem dateTimePickerToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem linkLabelToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem listBoxToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem listViewToolStripMenuItem;
     }
 }
 

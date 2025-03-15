@@ -16,3 +16,4 @@ C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Componentes.csproj.Core
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.exe
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.pdb
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_ListBox.resources
+C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_ListView.resources

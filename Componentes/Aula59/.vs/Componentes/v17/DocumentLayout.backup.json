@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|c:\\users\\chico\\documents\\c#\\componentes\\aula59\\f_listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:f_listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|c:\\users\\chico\\documents\\c#\\componentes\\aula59\\f_listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:f_listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|c:\\users\\chico\\documents\\c#\\componentes\\aula59\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|c:\\users\\chico\\documents\\c#\\componentes\\aula59\\f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|c:\\users\\chico\\documents\\c#\\componentes\\aula59\\f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|c:\\users\\chico\\documents\\c#\\componentes\\aula59\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA418C8-ABCF-4269-B99C-05D6BCCAE139}|Componentes.csproj|solutionrelative:f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_ListView.cs",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_ListView.cs",
+              "RelativeDocumentMoniker": "F_ListView.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_ListView.cs",
+              "RelativeToolTip": "F_ListView.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:54:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "F_ListView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_ListView.cs",
+              "RelativeDocumentMoniker": "F_ListView.cs",
+              "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_ListView.cs [Design]",
+              "RelativeToolTip": "F_ListView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:45:05.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "F_ListBox.cs",
               "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_ListBox.cs",
               "RelativeDocumentMoniker": "F_ListBox.cs",
@@ -43,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "F_ListBox.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\F_ListBox.cs",
               "RelativeDocumentMoniker": "F_ListBox.cs",
@@ -55,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Chico\\Documents\\C#\\Componentes\\Aula59\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA1wHcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T12:38:50.14Z",
               "EditorCaption": ""
