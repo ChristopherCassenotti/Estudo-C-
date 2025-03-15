@@ -119,5 +119,15 @@ namespace Aula59
         {
             OpenForm<F_ListView>();
         }
+
+        private void maskedTextBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_TextMask>();
+        }
+
+        private void monthCalendarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_MonthCalendar>();
+        }
     }
 }

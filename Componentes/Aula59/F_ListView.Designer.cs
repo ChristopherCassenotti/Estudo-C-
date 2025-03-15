@@ -76,10 +76,11 @@
             listViewItem1,
             listViewItem2,
             listViewItem3});
-            this.lv_produtos.Location = new System.Drawing.Point(14, 33);
+            this.lv_produtos.Location = new System.Drawing.Point(10, 27);
+            this.lv_produtos.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.lv_produtos.MultiSelect = false;
             this.lv_produtos.Name = "lv_produtos";
-            this.lv_produtos.Size = new System.Drawing.Size(611, 269);
+            this.lv_produtos.Size = new System.Drawing.Size(465, 219);
             this.lv_produtos.TabIndex = 0;
             this.lv_produtos.UseCompatibleStateImageBehavior = false;
             this.lv_produtos.View = System.Windows.Forms.View.Details;
@@ -107,74 +108,83 @@
             // 
             // tb_id
             // 
-            this.tb_id.Location = new System.Drawing.Point(19, 369);
+            this.tb_id.Location = new System.Drawing.Point(14, 300);
+            this.tb_id.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tb_id.Name = "tb_id";
-            this.tb_id.Size = new System.Drawing.Size(102, 22);
+            this.tb_id.Size = new System.Drawing.Size(78, 20);
             this.tb_id.TabIndex = 1;
             // 
             // tb_produto
             // 
-            this.tb_produto.Location = new System.Drawing.Point(131, 369);
+            this.tb_produto.Location = new System.Drawing.Point(98, 300);
+            this.tb_produto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tb_produto.Name = "tb_produto";
-            this.tb_produto.Size = new System.Drawing.Size(206, 22);
+            this.tb_produto.Size = new System.Drawing.Size(156, 20);
             this.tb_produto.TabIndex = 2;
             // 
             // tb_qntd
             // 
-            this.tb_qntd.Location = new System.Drawing.Point(343, 369);
+            this.tb_qntd.Location = new System.Drawing.Point(257, 300);
+            this.tb_qntd.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tb_qntd.Name = "tb_qntd";
-            this.tb_qntd.Size = new System.Drawing.Size(127, 22);
+            this.tb_qntd.Size = new System.Drawing.Size(96, 20);
             this.tb_qntd.TabIndex = 3;
             // 
             // tb_preco
             // 
-            this.tb_preco.Location = new System.Drawing.Point(476, 369);
+            this.tb_preco.Location = new System.Drawing.Point(357, 300);
+            this.tb_preco.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.tb_preco.Name = "tb_preco";
-            this.tb_preco.Size = new System.Drawing.Size(143, 22);
+            this.tb_preco.Size = new System.Drawing.Size(108, 20);
             this.tb_preco.TabIndex = 4;
             this.tb_preco.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // lb_id
             // 
             this.lb_id.AutoSize = true;
-            this.lb_id.Location = new System.Drawing.Point(16, 350);
+            this.lb_id.Location = new System.Drawing.Point(12, 284);
+            this.lb_id.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lb_id.Name = "lb_id";
-            this.lb_id.Size = new System.Drawing.Size(20, 16);
+            this.lb_id.Size = new System.Drawing.Size(18, 13);
             this.lb_id.TabIndex = 5;
             this.lb_id.Text = "ID";
             // 
             // lb_produto
             // 
             this.lb_produto.AutoSize = true;
-            this.lb_produto.Location = new System.Drawing.Point(128, 350);
+            this.lb_produto.Location = new System.Drawing.Point(96, 284);
+            this.lb_produto.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lb_produto.Name = "lb_produto";
-            this.lb_produto.Size = new System.Drawing.Size(54, 16);
+            this.lb_produto.Size = new System.Drawing.Size(44, 13);
             this.lb_produto.TabIndex = 6;
             this.lb_produto.Text = "Produto";
             // 
             // lb_qntd
             // 
             this.lb_qntd.AutoSize = true;
-            this.lb_qntd.Location = new System.Drawing.Point(340, 350);
+            this.lb_qntd.Location = new System.Drawing.Point(255, 284);
+            this.lb_qntd.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lb_qntd.Name = "lb_qntd";
-            this.lb_qntd.Size = new System.Drawing.Size(77, 16);
+            this.lb_qntd.Size = new System.Drawing.Size(62, 13);
             this.lb_qntd.TabIndex = 7;
             this.lb_qntd.Text = "Quantidade";
             // 
             // lb_preco
             // 
             this.lb_preco.AutoSize = true;
-            this.lb_preco.Location = new System.Drawing.Point(476, 350);
+            this.lb_preco.Location = new System.Drawing.Point(357, 284);
+            this.lb_preco.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lb_preco.Name = "lb_preco";
-            this.lb_preco.Size = new System.Drawing.Size(43, 16);
+            this.lb_preco.Size = new System.Drawing.Size(35, 13);
             this.lb_preco.TabIndex = 8;
             this.lb_preco.Text = "Preço";
             // 
             // btn_add
             // 
-            this.btn_add.Location = new System.Drawing.Point(19, 397);
+            this.btn_add.Location = new System.Drawing.Point(14, 323);
+            this.btn_add.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_add.Name = "btn_add";
-            this.btn_add.Size = new System.Drawing.Size(118, 40);
+            this.btn_add.Size = new System.Drawing.Size(88, 32);
             this.btn_add.TabIndex = 9;
             this.btn_add.Text = "Adicionar";
             this.btn_add.UseVisualStyleBackColor = true;
@@ -182,9 +192,10 @@
             // 
             // btn_remover
             // 
-            this.btn_remover.Location = new System.Drawing.Point(19, 443);
+            this.btn_remover.Location = new System.Drawing.Point(14, 360);
+            this.btn_remover.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_remover.Name = "btn_remover";
-            this.btn_remover.Size = new System.Drawing.Size(118, 40);
+            this.btn_remover.Size = new System.Drawing.Size(88, 32);
             this.btn_remover.TabIndex = 10;
             this.btn_remover.Text = "Remover";
             this.btn_remover.UseVisualStyleBackColor = true;
@@ -192,9 +203,10 @@
             // 
             // btn_get
             // 
-            this.btn_get.Location = new System.Drawing.Point(19, 489);
+            this.btn_get.Location = new System.Drawing.Point(14, 397);
+            this.btn_get.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_get.Name = "btn_get";
-            this.btn_get.Size = new System.Drawing.Size(118, 40);
+            this.btn_get.Size = new System.Drawing.Size(88, 32);
             this.btn_get.TabIndex = 11;
             this.btn_get.Text = "Obter";
             this.btn_get.UseVisualStyleBackColor = true;
@@ -202,9 +214,9 @@
             // 
             // F_ListView
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(637, 575);
+            this.ClientSize = new System.Drawing.Size(486, 467);
             this.Controls.Add(this.btn_get);
             this.Controls.Add(this.btn_remover);
             this.Controls.Add(this.btn_add);
@@ -218,6 +230,7 @@
             this.Controls.Add(this.tb_id);
             this.Controls.Add(this.lv_produtos);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "F_ListView";
