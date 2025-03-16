@@ -129,5 +129,30 @@ namespace Aula59
         {
             OpenForm<F_MonthCalendar>();
         }
+
+        private void MenuNotificoes_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            if(e.ClickedItem.Name.ToString() == "tsmi_close")
+            {
+                this.Close();
+            }else if(e.ClickedItem.Name.ToString() == "tsmi_restaurar")
+            {
+                this.WindowState = FormWindowState.Normal;
+            }
+            else if (e.ClickedItem.Name.ToString() == "tsmi_msg")
+            {
+                MessageBox.Show("Curso C#");
+            }
+        }
+
+        private void NumericUpDown_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_NumericUpDown>();
+        }
+
+        private void pictureBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_PictureBox>();
+        }
     }
 }

@@ -19,3 +19,5 @@ C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_ListBox.resour
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_ListView.resources
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_TextMask.resources
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_MonthCalendar.resources
+C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_NumericUpDown.resources
+C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_PictureBox.resources

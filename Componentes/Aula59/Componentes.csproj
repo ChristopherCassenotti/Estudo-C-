@@ -106,6 +106,18 @@
     <Compile Include="F_MonthCalendar.Designer.cs">
       <DependentUpon>F_MonthCalendar.cs</DependentUpon>
     </Compile>
+    <Compile Include="F_NumericUpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_NumericUpDown.Designer.cs">
+      <DependentUpon>F_NumericUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_PictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_PictureBox.Designer.cs">
+      <DependentUpon>F_PictureBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="F_TextMask.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -150,6 +162,12 @@
     <EmbeddedResource Include="F_MonthCalendar.resx">
       <DependentUpon>F_MonthCalendar.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="F_NumericUpDown.resx">
+      <DependentUpon>F_NumericUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_PictureBox.resx">
+      <DependentUpon>F_PictureBox.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="F_TextMask.resx">
       <DependentUpon>F_TextMask.cs</DependentUpon>
     </EmbeddedResource>
@@ -158,17 +176,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -177,6 +196,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNOOPY-CAO-e16156538891211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2023-10-12 2325171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EVLTmpzVAAAe0DW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SNOOPY-CAO-e16156538891212.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
