@@ -154,5 +154,15 @@ namespace Aula59
         {
             OpenForm<F_PictureBox>();
         }
+
+        private void progressBarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_ProgressBar>();
+        }
+
+        private void radioButtonToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenForm<F_RadioButton>();
+        }
     }
 }

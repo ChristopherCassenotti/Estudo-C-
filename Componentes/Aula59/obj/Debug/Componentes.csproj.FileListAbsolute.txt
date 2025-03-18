@@ -21,3 +21,5 @@ C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_TextMask.resou
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_MonthCalendar.resources
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_NumericUpDown.resources
 C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_PictureBox.resources
+C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_ProgressBar.resources
+C:\Users\Chico\Documents\C#\Componentes\Aula59\obj\Debug\Aula59.F_RadioButton.resources

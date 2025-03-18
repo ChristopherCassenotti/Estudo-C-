@@ -1,0 +1,10 @@
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\bin\Debug\AppControleText.exe.config
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\bin\Debug\AppControleText.exe
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\bin\Debug\AppControleText.pdb
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\obj\Debug\AppControleText.csproj.AssemblyReference.cache
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\obj\Debug\AppControleText.Editor_texto.resources
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\obj\Debug\AppControleText.Properties.Resources.resources
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\obj\Debug\AppControleText.csproj.GenerateResource.cache
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\obj\Debug\AppControleText.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\obj\Debug\AppControleText.exe
+C:\Users\Chico\Documents\C#\AppControleTexto\AppControleText\obj\Debug\AppControleText.pdb
