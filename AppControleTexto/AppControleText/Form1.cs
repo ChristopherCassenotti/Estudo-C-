@@ -13,7 +13,7 @@ namespace AppControleText
 {
     public partial class Editor_texto : Form
     {
-        StreamReader leitura = null;
+        StringReader leitura = null;
 
         public Editor_texto()
         {
@@ -292,6 +292,17 @@ namespace AppControleText
             }
         }
 
+        private void Imprimir()
+        {
+            printDialog1.Document = printDocument1;
+            string texto = this.richTextBox1.Text;
+            leitura = new StringReader(texto);
+            if (printDialog1.ShowDialog() == DialogResult.OK) 
+            {
+                this.printDocument1.Print();
+            }
+        }
+
         private void btn_negrito_Click(object sender, EventArgs e)
         {
             Negrito();
@@ -320,6 +331,107 @@ namespace AppControleText
         private void sublinhadoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Sublinhado();
+        }
+
+        private void AlignLeft()
+        {
+            richTextBox1.SelectionAlignment = HorizontalAlignment.Left;
+        }
+        private void AlignRight()
+        {
+            richTextBox1.SelectionAlignment = HorizontalAlignment.Right;
+        }
+        private void AlignCenter()
+        {
+            richTextBox1.SelectionAlignment = HorizontalAlignment.Center;
+        }
+
+        private void btn_alignLeft_Click(object sender, EventArgs e)
+        {
+            AlignLeft();
+        }
+
+        private void esquerdaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AlignLeft();
+        }
+
+        private void btn_alignCenter_Click(object sender, EventArgs e)
+        {
+            AlignCenter();
+        }
+
+        private void btn_alignRight_Click(object sender, EventArgs e)
+        {
+            AlignRight();
+        }
+
+        private void direitaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AlignRight();
+        }
+
+        private void centralizarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AlignCenter();
+        }
+
+        private void imprimirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Imprimir();
+        }
+
+        private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
+        {
+            float linhasPag = 0;
+            float PosY = 0;
+            int count = 0;
+            float marginLeft = e.MarginBounds.Left - 50;
+            float marginTop = e.MarginBounds.Top - 50;
+
+            if(marginLeft < 5)
+            {
+                marginLeft = 20;
+            }
+            if (marginTop < 5) 
+            { 
+                marginTop = 20; 
+            }
+            
+            string linha = null;
+            Font fonte = this.richTextBox1.Font;
+            SolidBrush pincel = new SolidBrush(Color.Black);
+
+            linhasPag = e.MarginBounds.Height / fonte.GetHeight(e.Graphics);
+            linha = leitura.ReadLine();
+            
+            while (count < linhasPag) 
+            {
+                PosY = (marginTop + (count * fonte.GetHeight(e.Graphics)));
+                e.Graphics.DrawString(linha, fonte, pincel, marginLeft, PosY, new StringFormat());
+                count++;
+                linha = leitura.ReadLine();
+            }
+            if (linha != null)
+            {
+                e.HasMorePages = true;
+            }
+            else
+            {
+                e.HasMorePages = false;
+            }
+            pincel.Dispose();
+        }
+
+        private void txt_fontSize_Click(object sender, EventArgs e)
+        {
+            txt_fontSize.Text = richTextBox1.SelectionFont.Size.ToString();
+        }
+
+        private void btn_font_Click(object sender, EventArgs e)
+        {
+            float newSize = float.Parse(txt_fontSize.Text);
+            richTextBox1.SelectionFont = new System.Drawing.Font(richTextBox1.SelectionFont.FontFamily, newSize, richTextBox1.SelectionFont.Style);
         }
     }
 }
